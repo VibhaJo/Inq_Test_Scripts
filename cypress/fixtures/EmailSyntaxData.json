@@ -1,0 +1,44 @@
+[
+{
+    "email": "@gmail.com",
+    "password": "abcd"
+},
+
+{
+    "email": "abcd",
+    "password": "abcd"
+},
+
+{
+    "email": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijlmn@gmail.com",
+    "password": "abcd"
+},
+{
+    "email": "abcd.example.com",
+    "password": "abcd"
+},
+{
+    "email": "abcd@gmail",
+    "password": "abcd"
+},
+{
+    "email": "<abcd@gmail.com",
+    "password": "abcd"
+},
+{
+    "email": "123@dom_ain.com",
+    "password": "abcd"
+},
+{
+    "email": "abcd@domain.co-m",
+    "password": "abcd"
+},
+{
+    "email": "\\abcd@gmail.com",
+    "password": "abcd"
+}
+]
+
+   
+
+  

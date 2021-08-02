@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Dataset 1",
+        "email": "fakeEmail@domain.com",
+        "password": "abcd"
+    },
+    
+    {
+        "name": "Dataset 2",
+        "email": "IncorrectEmail@incorrectdomain.com",
+        "password": "abcd"
+    },
+    {
+        "name": "Dataset 3",
+        "email": "abcd@gmail.com",
+        "password": "password"
+    },
+        
+    {
+        "name": "Dataset 4",
+        "email": "WrongEmail@yahoo.com",
+        "password": "password111"
+    },
+    {
+        "name": "Dataset 5",
+        "email": "abcd@abcd.co.au",
+        "password": "abcd"
+    }
+]
