@@ -1,4 +1,5 @@
 // Verifying the Error message is generated when incorrect email or password is entered.
+// Data set consists of sets of unregistered email-passwords.
 
 // Assigning the test data array file to the declared constant
 const testData = require("../../fixtures/EmailPassNotRegData.json")
