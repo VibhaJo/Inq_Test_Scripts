@@ -1,4 +1,5 @@
 // Verifying error message is generated if the syntax of the email is invalid.
+// Considering  possible invalid emails as dataset.
 
 // Assigning the test data array file to the declared constant
 const testData = require("../../fixtures/EmailSyntaxData.json")
