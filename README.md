@@ -22,7 +22,7 @@ Have used test data for scenarios 5 & 6. Please find the mapping for Test Data f
 
 
 ### Required dependencies to be installed
-* npm install --save
+* npm install 
 * npm install cypress
 
 ### Running the scripts
